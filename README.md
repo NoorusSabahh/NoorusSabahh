@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center"> Hi <img width="30px" src="https://github.com/NoorusSabahh/NoorusSabahh/blob/main/images/hi.gif">, I'm Noor </h1>
+
+<p align="center">
+  <br><img src= "https://github.com/NoorusSabahh/NoorusSabahh/blob/main/images/developer.gif" width="450px">
+</p>
 
 <!--
 **NoorusSabahh/NoorusSabahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
