@@ -4,7 +4,7 @@
   <br><img src= "https://github.com/NoorusSabahh/NoorusSabahh/blob/main/images/developer.gif" width="450px">
 </p>
 <p align="center">
-🎓 I'm a <b>Final-year student</b> and an <b>aspiring developer</b> juggling projects, deadlines, and a bit of sleep! Currently working as a <b>Software Engineering Intern</b> where I solve real-world problems for a real-world company. I'm also exploring <b>Machine Learning</b> and <b>AI</b> to learn and create innovative solutions. 🌟 Besides, I’m dedicated to empowering <b>women in tech</b> through local communities and <b>Google Women in Tech</b>. When I’m not coding, you can find me on a quest for the best <b>food</b> spots or trying to <b>stay active</b> (gotta burn what I eat lol 🏃‍♀️🍕).
+🎓 I'm a <b>Final-year student</b> and an <b>aspiring developer</b> juggling projects, deadlines, and a bit of sleep! Currently working as a <b>Software Engineering Intern</b> where I solve real-world problems for a real-world company. I'm also exploring <b>Machine Learning</b> and <b>Gen AI</b> to learn and create innovative solutions. 🌟 Besides, I’m dedicated to empowering <b>women in tech</b> through local communities and <b>Google Women in Tech</b>. When I’m not coding, you can find me on a search for the best <b>food</b> spots or trying to <b>stay active</b> (gotta burn what I eat lol 🏃‍♀️🍕).
 </p>
   
 <h3 align="center">Connect with me:</h3>
@@ -17,9 +17,9 @@
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
+<!--   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=NoorusSabahh&theme=catppuccin-macchiato" alt="GitHub Streak" />
-  </a>
+  </a> -->
 </p>
 
 
