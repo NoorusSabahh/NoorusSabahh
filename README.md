@@ -1,8 +1,8 @@
 <h1 align="center"> Hi <img width="30px" src="https://github.com/NoorusSabahh/NoorusSabahh/blob/main/images/hi.gif">, I'm Noor </h1>
 
 <p align="center">
-  <br><img src= "https://github.com/NoorusSabahh/NoorusSabahh/blob/main/images/developer.gif" width="450px">
-</p>
+<!--   <br><img src= "https://github.com/NoorusSabahh/NoorusSabahh/blob/main/images/developer.gif" width="450px">
+</p> -->
 <p align="center">
 🎓 I'm a <b>Final-year student</b> and an <b>aspiring developer</b> juggling projects, deadlines, and a bit of sleep! Currently working as a <b>Software Engineering Intern</b> where I solve real-world problems for a real-world company. I'm also exploring <b>Machine Learning</b> and <b>Gen AI</b> to learn and create innovative solutions. 🌟 Besides, I’m dedicated to empowering <b>women in tech</b> through local communities and <b>Google Women in Tech</b>. When I’m not coding, you can find me on a search for the best <b>food</b> spots or trying to <b>stay active</b> (gotta burn what I eat lol 🏃‍♀️🍕).
 </p>
